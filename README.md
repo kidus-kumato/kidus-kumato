@@ -26,15 +26,5 @@ Senior Java / Spring Boot Backend Engineer | API & Backend Rescue<br><br>Your ba
 ![](https://github-readme-stats.shion.dev/api?username=kidus-kumato&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=kidus-kumato&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kidus-kumato&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=kidus-kumato&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kidus.ke@gmail.com) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
