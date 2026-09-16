@@ -13,8 +13,51 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 💫 About Me:
-Senior Java / Spring Boot Backend Engineer | API & Backend Rescue<br><br>Your backend shouldn't be the thing slowing your product down.<br>I'm a Senior Software Engineer with 7+ years of professional software development experience, specializing in Java, Spring Boot, REST APIs, PostgreSQL and backend systems.
+-->
+# 👋 Hi, I'm Kidus Yohannes
+
+### Senior Java / Spring Boot Backend Engineer
+
+**I build, debug, and productionize backend systems.**
+
+I have 7+ years of professional software engineering experience, specializing in:
+
+- Java & Spring Boot
+- REST APIs
+- PostgreSQL
+- Spring Security
+- Redis
+- Docker
+- API integrations
+- Testing & CI/CD
+
+### 🛠️ What I Help With
+
+I work especially well with existing backend systems that need to be:
+
+- Fixed
+- Finished
+- Refactored
+- Integrated
+- Optimized
+- Productionized
+
+If you have a Spring Boot backend that is broken, unfinished, slow, or difficult to maintain, that's the kind of problem I like solving.
+
+### 🚀 Featured Project
+
+**[Spring Backend Kit](https://github.com/kidus-kumato/spring-backend-kit)**
+
+A production-oriented Spring Boot backend starter demonstrating authentication, authorization, PostgreSQL, Redis, Docker, testing, migrations, API documentation, and CI/CD.
+
+### 💼 Professional Focus
+
+**Backend Engineering · Java · Spring Boot · REST APIs · PostgreSQL · System Integration**
+
+### 📫 Contact
+
+- GitHub: [@kidus-kumato](https://github.com/kidus-kumato)
+- Email: kidus.ke@gmail.com
 
 
 ## 🌐 Socials:
